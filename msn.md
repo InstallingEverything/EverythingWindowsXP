@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="600" height="200" src="https://github.com/InstallingEverything/EverythingWindowsXP/blob/main/Images/MSN.jpg">
+  <img width="600" height="600" src="https://github.com/InstallingEverything/EverythingWindowsXP/blob/main/Images/MSN.jpg">
 </p>
 
 # MSN Messanger Removal
