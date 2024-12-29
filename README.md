@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="600" height="600" src="https://github.com/InstallingEverything/EverythingWindowsXP/blob/main/Images/XP.jpg">
+  <img width="900" height="400" src="https://github.com/InstallingEverything/EverythingWindowsXP/blob/main/Images/XP.jpg">
 </p>
 
 
