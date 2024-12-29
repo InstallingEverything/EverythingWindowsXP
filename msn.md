@@ -1,4 +1,4 @@
-![MSN Messanger](Images/MSN.png)
+![MSN Messanger](Images/MSN.jpg)
 
 # MSN Messanger Removal
 
