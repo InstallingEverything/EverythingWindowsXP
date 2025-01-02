@@ -11,8 +11,8 @@ We have decided to merge our 2 exsting repos into one and add anything new we fi
 
 # MSN Messanger Removal
 
-[MSN Messanger Removal](msn.md)
+[MSN Messanger Removal](Articles/msn.md)
 
 # Windows XP EOL Removal
 
-[Windows XP EOL Removal](EOL.md)
+[Windows XP EOL Removal](Articles/EOL.md)
