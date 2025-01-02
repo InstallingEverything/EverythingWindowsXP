@@ -1,8 +1,6 @@
 # Windows XP EOL Removal
 
-![EOL](Images/EOL.png)
-
-![screenshot](Images/EOL.png)
+![EOL](https://github.com/InstallingEverything/EverythingWindowsXP/blob/main/Images/EOL.png)
 
 We have created scripts giving you a choice.
 
